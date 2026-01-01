@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "id": "afcd",
+      "cityName": "Alcala de Guadaira",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-08T09:30:10.379Z",
+      "notes": "fdgdfgd",
+      "position": {
+        "lat": "37.33522435930641",
+        "lng": "-5.811767578125"
+      }
+    },
+    {
+      "id": "c609",
+      "cityName": "Ademuz",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-08T09:31:07.782Z",
+      "notes": "fgfdg",
+      "position": {
+        "lat": "40.08647729380884",
+        "lng": "-1.2634277343750002"
+      }
+    },
+    {
+      "id": "a8c9",
+      "cityName": "Lezuza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-08T09:31:33.383Z",
+      "notes": "fgdf",
+      "position": {
+        "lat": "38.976492485539424",
+        "lng": "-2.2741699218750004"
+      }
+    },
+    {
+      "id": "5281",
+      "cityName": "Alamedilla",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-12-08T09:31:38.127Z",
+      "notes": "fgdfgfd",
+      "position": {
+        "lat": "37.640334898059486",
+        "lng": "-3.2080078125000004"
+      }
+    },
+    {
+      "id": "b1cb",
+      "cityName": "El Hassasna",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2025-12-08T09:31:42.831Z",
+      "notes": "dfgfdg",
+      "position": {
+        "lat": "34.7506398050501",
+        "lng": "0.31860351562500006"
+      }
+    },
+    {
+      "id": "bdd4",
+      "cityName": "Monreale",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2025-12-08T09:34:00.592Z",
+      "notes": "sfsdf",
+      "position": {
+        "lat": "37.82280243352759",
+        "lng": "12.985839843750002"
+      }
+    },
+    {
+      "id": "1f7b",
+      "cityName": "Kuybyshevskiy Rayon",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-12-08T09:34:35.633Z",
+      "notes": "sdfsd",
+      "position": {
+        "lat": "54.04648911335576",
+        "lng": "33.95874023437501"
+      }
+    },
+    {
+      "id": "0e9f",
+      "cityName": "Odintsovskiy Gorodskoy Okrug",
+      "country": "Russian Federation (the)",
+      "emoji": "🇷🇺",
+      "date": "2025-12-08T09:34:38.936Z",
+      "notes": "sdfds",
+      "position": {
+        "lat": "55.60938408809366",
+        "lng": "36.87011718750001"
+      }
+    }
+  ]
+}
