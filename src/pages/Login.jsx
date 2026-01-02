@@ -28,6 +28,7 @@ export default function Login() {
             onChange={(e) => setEmail(e.target.value)}
             value={email}
             disabled={isPending}
+            autoFocus
           />
         </div>
 
