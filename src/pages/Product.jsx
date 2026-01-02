@@ -11,17 +11,22 @@ export default function Product() {
           alt="person with dog overlooking mountain with sunset"
         />
         <div>
-          <h2>About WorldWide.</h2>
+          <h2>About World Travel Diary.</h2>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo est
-            dicta illum vero culpa cum quaerat architecto sapiente eius non
-            soluta, molestiae nihil laborum, placeat debitis, laboriosam at fuga
-            perspiciatis?
+            World Travel Diary is an innovative company dedicated to enhancing
+            the travel experience of its users through a unique digital
+            platform. The core service offered by the company is an online
+            travel journal that allows users to document their journeys across
+            the globe in a personalized and interactive manner
           </p>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Corporis
-            doloribus libero sunt expedita ratione iusto, magni, id sapiente
-            sequi officiis et.
+            The platform is designed with a user-friendly interface, featuring
+            an electronic map that spans the entire world. Users can select any
+            city they visit by simply clicking on the map, which then opens a
+            dedicated space for notes related to that specific location. This
+            feature encourages travelers to keep detailed records of their
+            adventures, making their travel diaries both comprehensive and
+            visually engaging.
           </p>
         </div>
       </section>
